@@ -35,51 +35,7 @@ var se_list_preinstall = {
     }
 };
 
-// 主页快捷方式【预设】
-var quick_list_preinstall = {
-    '1': {
-        title: "哔哩哔哩",
-        url: "https://www.bilibili.com/",
-        img: "./icon/bilibili.png",
-        explain: "哔哩哔哩 (゜-゜)つロ 干杯~",
-    },
-    '2': {
-        title: "GitHub",
-        url: "https://github.com/",
-        img: "./icon/github.ico",
-        explain: "GitHub",
-    },
-    '3': {
-        title: "分享迷",
-        url: "https://www.fenxm.com/",
-        img: "https://www.fenxm.com/zb_users/theme/suiranx_air/image/favicon.ico",
-        explain: "优质精品TV软件",
-    },
-    '4': {
-        title: "乐愚社区",
-        url: "https://bbs.leyuxyz.com/",
-        img: "./icon/leyu.png",
-        explain: "做一个有价值的社区",
-    },
-    '5': {
-        title: "网址大全",
-        url: "https://manmandebaba.github.io/X/X.html",
-        img: "./icon/www.png",
-        explain: "网址大全",
-    },
-	    '6': {
-        title: "bejson",
-        url: "https://www.bejson.com/",
-        img: "./icon/be.png",
-        explain: "bejson",
-    },	 
-	'7': {
-        title: "gitee",
-        url: "https://gitee.com/",
-        img: "https://e-assets.gitee.com/gitee-community-web/_next/static/media/logo-black.0c964084.svg",
-        explain: "gitee",
-    },
-};
+
 
 // 主题方案【预设】
 var themes_preinstall = {
